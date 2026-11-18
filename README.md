@@ -1,4 +1,3 @@
-https://github.com/estysmart17/estysmart.github.io/blob/main/estysmart-profile.jpg?raw=true
 # 👋 Hello, I'm Abiazie Esther Isioma (EstySmart)
 
 ### Data Analyst | Multimedia Specialist | Cybersecurity & DevSecOps Enthusiast | Digital Solutions Creator
@@ -53,11 +52,11 @@ A real estate branding and promotional design concept.
 
 ### 🔬 Microscopic Marvels
 An educational science ebook project exploring the fascinating world beneath the microscope.
+![Microscopic Marvels](https://github.com/estysmart17/estysmart.github.io/blob/main/ChatGPT%20Image%20Jul%205,%202026,%2007_09_50%20PM.png?raw=true)
 
 ### 🚀 Driven by Innovation
 An educational ebook exploring the technology and vision behind the future of cars.
 ## 📘 Featured Project: Driven by Innovation
-
 ![Driven by Innovation](https://github.com/estysmart17/estysmart.github.io/blob/main/ChatGPT%20Image%20Jul%205,%202026,%2010_59_49%20PM.png?raw=true)
 
 **Description:** An educational ebook exploring the technology, engineering, innovation and vision shaping the future of automobiles.
