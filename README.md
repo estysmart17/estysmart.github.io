@@ -78,6 +78,11 @@ I'm open to suitable learning opportunities, creative collaborations, project di
 - **LinkedIn:** https://www.linkedin.com/in/estysmart
 - **Email:** isiomaabiazie17@gmail.com
 - **Portfolio:** https://estysmart.github.io
+- ## 🌐 My Portfolio
+
+Explore my projects and creative work:
+
+https://estysmart17.github.io
 
 ---
 
