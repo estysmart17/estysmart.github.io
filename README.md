@@ -1,8 +1,10 @@
+https://github.com/estysmart17/estysmart.github.io/blob/main/estysmart-profile.jpg?raw=true
 # 👋 Hello, I'm Abiazie Esther Isioma (EstySmart)
 
 ### Data Analyst | Multimedia Specialist | Cybersecurity & DevSecOps Enthusiast | Digital Solutions Creator
 
 **Creativity. Technology. Innovation. Impact.**
+
 
 Welcome to my GitHub profile! I'm an aspiring multidisciplinary digital professional passionate about combining creativity, analytical thinking and technology to develop meaningful digital solutions.
 
