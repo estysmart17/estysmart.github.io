@@ -54,6 +54,11 @@ An educational science ebook project exploring the fascinating world beneath the
 
 ### 🚀 Driven by Innovation
 An educational ebook exploring the technology and vision behind the future of cars.
+## 📘 Featured Project: Driven by Innovation
+
+![Driven by Innovation](https://github.com/estysmart17/estysmart.github.io/blob/main/ChatGPT%20Image%20Jul%205,%202026,%2010_59_49%20PM.png?raw=true)
+
+**Description:** An educational ebook exploring the technology, engineering, innovation and vision shaping the future of automobiles.
 
 ## 🎓 Education & Professional Development
 
