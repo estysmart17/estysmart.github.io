@@ -320,6 +320,47 @@ alt="Driven by Innovation ebook cover">
 
 **Your Dream, My Priority**
 
+Transforming creative visions into captivating designs that make every dream unforgettable.
+
+
+<table>
+<tr>
+<td width="65%" valign="middle">
+
+<h2>✦ ISSY ARTS AND DESIGN ✦</h2>
+
+<h3>Your Dream, My Priority.</h3>
+
+<p>
+A creative design brand focused on graphic design,
+visual branding, logo creation, promotional flyers
+and captivating digital artwork.
+</p>
+
+<p><strong>PROJECT CATEGORY</strong></p>
+
+<p>Graphic Design · Visual Branding · Digital Creativity · Multimedia Design</p>
+
+<p><em>Bringing creative visions to life through exceptional design.</em></p>
+
+</td>
+
+<td width="35%" align="center" valign="middle">
+
+<a href="https://github.com/estysmart17/estysmart.github.io/blob/main/ChatGPT%20Image%20Apr%2028,%202026,%2009_00_25%20PM.png?raw=true">
+<img
+src="https://github.com/estysmart17/estysmart.github.io/blob/main/ChatGPT%20Image%20Apr%2028,%202026,%2009_00_25%20PM.png?raw=true"
+width="240"
+alt="Issy Arts and Design project preview">
+</a>
+
+</td>
+</tr>
+</table>
+
+---
+
+
 ## EDUCATION & PROFESSIONAL TRAINING
 
 **St. Agnes Group of School**
