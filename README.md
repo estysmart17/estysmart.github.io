@@ -316,6 +316,9 @@ alt="Driven by Innovation ebook cover">
 **Focus:** Technology Research | Educational Writing | Automotive Innovation
 
 ---
+### 7. ISSY ARTS AND DESIGN
+
+**Your Dream, My Priority**
 
 ## EDUCATION & PROFESSIONAL TRAINING
 
