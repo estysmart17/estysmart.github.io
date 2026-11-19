@@ -95,6 +95,21 @@ My professional philosophy is simple:
 
 ---
 
+## ✦ PROFESSIONAL RESOURCES ✦
+
+Welcome to my professional space. Explore my work, connect with me, and access my professional CV.
+
+📄 **[DOWNLOAD MY CV](https://github.com/estysmart17/estysmart.github.io/blob/main/Esther-Isioma-Abiazie-CV.pdf?raw=true)**
+
+💼 **[Connect with me on LinkedIn](https://www.linkedin.com/in/estysmart)**
+
+🌐 **[Explore my Portfolio Website](https://estysmart17.github.io)**
+
+💻 **[Explore my GitHub Projects](https://github.com/estysmart17)**
+
+---
+
+
 ## SKILLS & EXPERTISE
 
 ### DATA & ANALYTICS
