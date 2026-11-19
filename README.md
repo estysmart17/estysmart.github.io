@@ -165,6 +165,51 @@ My personal professional portfolio showcasing my skills, training, projects, ser
 
 An automotive website concept focused on presenting vehicle-related services through a professional digital experience.
 
+
+<table>
+<tr>
+<td width="65%" valign="middle">
+
+<h2>✦ ABI-JO AUTOMOBILES ✦</h2>
+
+<h3>Automotive Excellence. Driving Innovation.</h3>
+
+<p>
+A modern automotive website concept designed to showcase
+vehicles through an elegant digital showroom and deliver
+a professional online browsing experience.
+</p>
+
+<p><strong>PROJECT CATEGORY</strong></p>
+
+<p>Web Development · Automotive · Digital Solutions</p>
+
+<p><em>Bringing automotive discovery and digital experiences together.</em></p>
+
+<p>
+<a href="https://abi-joautomobiles.lovable.app/">
+<strong>↗ EXPLORE LIVE WEBSITE</strong>
+</a>
+</p>
+
+</td>
+
+<td width="35%" align="center" valign="middle">
+
+<a href="https://abi-joautomobiles.lovable.app/">
+<img
+src="https://github.com/estysmart17/estysmart.github.io/blob/main/Abi-Jo%20Automobiles%20Luxury%20Showcase.png?raw=true"
+width="240"
+alt="ABI-JO Automobiles Luxury Showcase">
+</a>
+
+</td>
+</tr>
+</table>
+
+---
+
+
 **Focus:** Website Design | Automotive Branding | Digital Presentation
 
 ### 3. NOVELORA
