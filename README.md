@@ -1,100 +1,178 @@
-# 👋 Hello, I'm Abiazie Esther Isioma (EstySmart)
+# ESTYSMART | Esther Isioma Abiazie
+
+
 
 ### Data Analyst | Multimedia Specialist | Cybersecurity & DevSecOps Enthusiast | Digital Solutions Creator
 
-**Creativity. Technology. Innovation. Impact.**
-
-
-Welcome to my GitHub profile! I'm an aspiring multidisciplinary digital professional passionate about combining creativity, analytical thinking and technology to develop meaningful digital solutions.
-
-I enjoy exploring new technologies, building digital concepts, creating multimedia content and turning ideas into practical projects.
+\<p align="center">   \<a href="[https://estysmart17.github.io](https://estysmart17.github.io)">MY PORTFOLIO\</a> •   \<a href="[https://www.linkedin.com/in/estysmart](https://www.linkedin.com/in/estysmart)">LINKEDIN\</a> •   \<a href="[https://github.com/estysmart17](https://github.com/estysmart17)">GITHUB\</a> •   \<a href="mailto\:isiomaabiazie17\@gmail.com">CONTACT ME\</a> \</p>
 
 ---
 
-## 🚀 About Me
+## 01 | HOME
 
-- 📊 Interested in Data Analysis, Data Interpretation and Data Presentation.
-- 🎨 Passionate about Graphic Design, Visual Design and Multimedia Creation.
-- 💻 Exploring Web Development and Digital Platform Creation.
-- 🤖 Interested in AI Prompt Engineering and AI-assisted content creation.
-- 🔐 Developing my knowledge of Cybersecurity and DevSecOps.
-- 📚 Committed to continuous learning, creativity and professional development.
-- 🌍 Based in Nigeria.
+### Transforming Ideas Into Intelligent Digital Experiences.
 
-## 🛠️ Skills & Areas of Interest
+Welcome to my digital space!
 
-- Data Analysis
-- Microsoft Word Processing
-- Microsoft PowerPoint Presentation
-- Graphic & Visual Design
-- Multimedia Design
-- Web Development
-- Cybersecurity Fundamentals
-- DevSecOps Principles
-- AI Prompt Engineering
-- AI-assisted Video Creation
-- Digital Content Creation
-- Analytical Thinking
+I am **Esther Isioma Abiazie**, professionally known as **EstySmart**. I am an aspiring digital professional exploring the intersection of data, creativity, multimedia and technology.
 
-## 💡 Featured Projects
+My focus is on developing practical skills, exploring innovative tools and creating digital experiences that communicate ideas and solve problems.
 
-### 🚘 ABI-JO Automobiles
-An automotive website concept designed to showcase vehicles and related services through a structured digital experience.
+**CREATIVITY. TECHNOLOGY. INNOVATION. IMPACT.**
+
+---
+
+## 02 | ABOUT ME
+
+I am passionate about using technology and creativity to transform ideas into meaningful digital experiences.
+
+My interests span data analysis, visual communication, multimedia design, web development, artificial intelligence and emerging technologies.
+
+I enjoy:
+
+- Turning information into meaningful insights.
+- Creating engaging visual and multimedia content.
+- Exploring website and digital product development.
+- Using AI tools to support creative workflows.
+- Learning about cybersecurity and DevSecOps.
+- Developing innovative ideas through independent projects.
+
+My approach is built around curiosity, analytical thinking, creativity, continuous learning and problem-solving.
+
+---
+
+## 03 | SKILLS & EXPERTISE
+
+| Area                    | Skills                                                                     |
+| ----------------------- | -------------------------------------------------------------------------- |
+| Data & Analytics        | Data Analysis, Data Interpretation, Analytical Thinking, Data Presentation |
+| Design & Multimedia     | Graphic Design, Visual Design, Multimedia Design, Presentation Design      |
+| Digital Development     | Web Development, Website Creation, Digital Solutions                       |
+| Artificial Intelligence | AI Prompt Engineering, AI-assisted Graphics, Video and Content Creation    |
+| Emerging Technology     | Cybersecurity Fundamentals, DevSecOps Principles                           |
+| Productivity            | Microsoft Word, Microsoft PowerPoint                                       |
+| Communication           | Digital Advertising, Content Creation, Visual Communication                |
+
+\<p align="center">   \<img src="[https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge\&logo=html5\&logoColor=white)" alt="HTML5"/>   \<img src="[https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge\&logo=css3\&logoColor=white)" alt="CSS3"/>   \<img src="[https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white](https://img.shields.io/badge/GitHub-181717?style=for-the-badge\&logo=github\&logoColor=white)" alt="GitHub"/>   \<img src="[https://img.shields.io/badge/Microsoft_Word-2B579A?style=for-the-badge&logo=microsoftword&logoColor=white](https://img.shields.io/badge/Microsoft_Word-2B579A?style=for-the-badge\&logo=microsoftword\&logoColor=white)" alt="Microsoft Word"/>   \<img src="[https://img.shields.io/badge/PowerPoint-B7472A?style=for-the-badge&logo=microsoftpowerpoint&logoColor=white](https://img.shields.io/badge/PowerPoint-B7472A?style=for-the-badge\&logo=microsoftpowerpoint\&logoColor=white)" alt="Microsoft PowerPoint"/>   \<img src="[https://img.shields.io/badge/AI_Prompt_Engineering-6C63FF?style=for-the-badge](https://img.shields.io/badge/AI_Prompt_Engineering-6C63FF?style=for-the-badge)" alt="AI Prompt Engineering"/> \</p>
+
+---
+
+## 04 | SERVICES & CREATIVE AREAS
+
+Areas in which I am developing skills and can contribute include:
+
+- **Data Analysis:** Organising, interpreting and presenting information.
+- **Graphic Design:** Creating visual communication materials.
+- **Multimedia Design:** Exploring digital media and creative production.
+- **Website Development:** Building and designing digital experiences.
+- **Presentation Design:** Developing structured presentations and pitch decks.
+- **AI-assisted Content:** Exploring AI-powered graphics, videos and content.
+- **Digital Branding:** Developing visual identity and promotional concepts.
+
+---
+
+## 05 | EXPERIENCE & DEVELOPMENT
+
+### Independent Digital Projects
+
+*2025 – Present*
+
+Developing independent concepts and portfolio projects involving website creation, graphic design, digital branding, educational publications and AI-assisted multimedia.
+
+### Data Analysis Training & Practice
+
+*2025*
+
+Completed a one-month online training programme and continue developing data interpretation, analytical thinking and presentation skills.
+
+### Digital Productivity & Multimedia Development
+
+*2025 – 2026*
+
+Developed capabilities through training and independent exploration in Microsoft Word, PowerPoint, multimedia design and AI-assisted creative production.
+
+---
+
+## 06 | FEATURED PROJECTS
+
+### 🌐 EstySmart — Personal Portfolio
+
+A professional portfolio website presenting my identity, skills, training, projects and creative technology interests.
+
+### 🚗 ABI-JO Automobiles
+
+An automotive website concept designed to present vehicle-related services through a structured digital experience.
 
 ### 📚 Novelora
-A digital reading and writing platform concept designed to connect readers and writers through book discovery and publishing features.
 
-### 🎬 HeckyBaba Real Estate Unlimited
-An AI-assisted promotional video project exploring creative storytelling and multimedia production.
+A digital reading and writing platform concept focused on helping readers discover stories and writers share creative work.
 
-### 🏡 ABI-J Real Estate
+### 🏡 ABI-J Real Estate Consultancy
+
 A real estate branding and promotional design concept.
 
-### 🔬 Microscopic Marvels
-An educational science ebook project exploring the fascinating world beneath the microscope.
-## Featured Project: Microscopic Marvels
-![Microscopic Marvels](https://github.com/estysmart17/estysmart.github.io/blob/main/ChatGPT%20Image%20Jul%205,%202026,%2007_09_50%20PM.png?raw=true)
+### 🎨 Creative Branding & Design
 
-### 🚀 Driven by Innovation
-An educational ebook exploring the technology and vision behind the future of cars.
-## 📘 Featured Project: Driven by Innovation
-![Driven by Innovation](https://github.com/estysmart17/estysmart.github.io/blob/main/ChatGPT%20Image%20Jul%205,%202026,%2010_59_49%20PM.png?raw=true)
+Independent branding and promotional concepts, including:
 
-**Description:** An educational ebook exploring the technology, engineering, innovation and vision shaping the future of automobiles.
+- Julie's Luxurious Hair Boutique
+- Issy Arts and Designs
+- Green Life Insurance
+- Destiny Greece Restaurant
 
-## 🎓 Education & Professional Development
+### 📖 Educational Publications
 
-- **Multimedia Specialist Training** – ITeach Academy (2026)
-- **Microsoft Word Processing** – ITeach Academy (2025)
-- **Microsoft PowerPoint Presentation** – 2025
-- **Data Analysis Training** – 2025
-- **Secondary Education** – St. Agnes Group of School
+**Microscopic Marvels — The Hidden Universe Beneath the Microscope**
 
-## 🎯 My Goals
+An educational science ebook introducing readers to the fascinating microscopic world.
 
-- Build practical and impactful digital solutions.
-- Strengthen my analytical and technical abilities.
-- Develop a strong portfolio of creative and technology projects.
-- Collaborate with innovative people and organisations.
-- Continue growing as a multidisciplinary digital professional.
+**Driven by Innovation — The Technology and Vision Behind the Future of Cars**
 
-## 🤝 Let's Connect
+An educational ebook exploring automotive technology, innovation and the future of mobility.
 
-I'm open to suitable learning opportunities, creative collaborations, project discussions and professional connections.
-
-- **LinkedIn:** https://www.linkedin.com/in/estysmart
-- **Email:** isiomaabiazie17@gmail.com
-- **Portfolio:** https://estysmart.github.io
-- ## 🌐 My Portfolio
-
-Explore my projects and creative work:
-
-https://estysmart17.github.io
+*These projects represent independent work and concepts, not necessarily paid client engagements or commercially deployed products.*
 
 ---
 
-### ✨ Turning Data, Creativity & Technology Into Solutions.
+## 07 | EDUCATION & TRAINING
 
-*Thank you for visiting my GitHub profile!*
+**St. Agnes Group of School**
 
-**ESTYSMART © 2026**
+- WAEC/WASSCE — 2026
+
+**ITeach Academy**
+
+- Microsoft Word Processing Training — 2025
+- Multimedia Specialist Training — 2026
+
+**Additional Training**
+
+- Microsoft PowerPoint Presentation Training — July–August 2025
+- Data Analysis Training — One-month online programme, 2025
+
+I believe in continuous learning, practical experimentation and developing skills that can create meaningful impact.
+
+---
+
+## 08 | EXPLORE MY PORTFOLIO
+
+My website brings together my professional profile, creative work, independent projects and digital development journey.
+
+\<p align="center">   \<a href="[https://estysmart17.github.io](https://estysmart17.github.io)">     \<img src="[https://img.shields.io/badge/EXPLORE_MY_PORTFOLIO-Visit_EstySmart-D4AF37?style=for-the-badge&logo=googlechrome&logoColor=white](https://img.shields.io/badge/EXPLORE_MY_PORTFOLIO-Visit_EstySmart-D4AF37?style=for-the-badge\&logo=googlechrome\&logoColor=white)" alt="Explore my portfolio"/>   \</a> \</p>
+
+---
+
+## 09 | LET'S CONNECT
+
+I welcome appropriate opportunities for learning, collaboration, internships and independent projects.
+
+\<p align="center">   \<a href="[https://www.linkedin.com/in/estysmart](https://www.linkedin.com/in/estysmart)">     \<img src="[https://img.shields.io/badge/LINKEDIN-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white](https://img.shields.io/badge/LINKEDIN-Connect-0A66C2?style=for-the-badge\&logo=linkedin\&logoColor=white)" alt="LinkedIn"/>   \</a>   \<a href="[https://github.com/estysmart17](https://github.com/estysmart17)">     \<img src="[https://img.shields.io/badge/GITHUB-Follow-181717?style=for-the-badge&logo=github&logoColor=white](https://img.shields.io/badge/GITHUB-Follow-181717?style=for-the-badge\&logo=github\&logoColor=white)" alt="GitHub"/>   \</a>   \<a href="mailto\:isiomaabiazie17\@gmail.com">     \<img src="[https://img.shields.io/badge/EMAIL-Contact_Me-D4AF37?style=for-the-badge&logo=gmail&logoColor=white](https://img.shields.io/badge/EMAIL-Contact_Me-D4AF37?style=for-the-badge\&logo=gmail\&logoColor=white)" alt="Email"/>   \</a> \</p>
+
+**Email:** [isiomaabiazie17@gmail.com](mailto\:isiomaabiazie17@gmail.com)
+
+**Location:** Owerri, Nigeria
+
+---
+
+\<p align="center">   \<strong>ESTYSMART\</strong>\<br/>   \<em>Creativity. Technology. Innovation. Impact.\</em>\<br/>\<br/>   Building skills. Exploring possibilities. Creating meaningful digital experiences. \</p>
+
