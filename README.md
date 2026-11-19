@@ -52,6 +52,7 @@ A real estate branding and promotional design concept.
 
 ### 🔬 Microscopic Marvels
 An educational science ebook project exploring the fascinating world beneath the microscope.
+## Featured Project: Microscopic Marvels
 ![Microscopic Marvels](https://github.com/estysmart17/estysmart.github.io/blob/main/ChatGPT%20Image%20Jul%205,%202026,%2007_09_50%20PM.png?raw=true)
 
 ### 🚀 Driven by Innovation
